@@ -1,7 +1,44 @@
-/* Our CSS file. */
+.First_Component{
+    height: 500px;
+    border: 1px solid black;
+    background-color: #F2F2F2;
+}
 
+.btn{
+    padding: 10px;
+    height: auto;
+    width: auto;
+    border: 1px lightblue;
+    border-radius: 8px;
+    background-color: black;
+}
 
-.container, .content {
-width: 100%;
-height: 100%;
+#component1{
+    width: 48%;
+    height: 500px;
+}
+.First_child{
+    display: inline-block;
+}
+
+.i1{
+    margin-top: 50px;
+    margin-right: 15rem;
+    height: 300px;
+    width: 350px;
+}
+
+.second_component{
+    width: 50%;
+}
+
+.First1_Component{
+    height: 500px;
+    border: 1px solid black;
+    background-color: #F2F2F2;
+}
+
+.i2{
+    width: 38%;
+    height: 300px;
 }
