@@ -1,7 +1,61 @@
-/* Our CSS file. */
+.card1{
+    display: inline-block;
+}
+.card11{
+    display: inline-block;
+}
+
+.btn{
+    padding: 10px;
+    height: 20px;
+    width: auto;
+    border: 1px solid black;
+    background-color: lightgreen;
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+
+img{
+    width: 275px;
+    height: 275px;
+}
+
+#firstimg{
+    border: 1px solid black;
+    height: 300px;
+    width: 760px;
+}
+
+#secondimg{
+    border: 1px solid black;
+    height: 300px;
+    width: 760px;
+    margin-top: 10px;
+}
+
+#matter{
+    width:450px;
+    height: 300px;
+    padding: 10px;
+    line-height: 1.5rem;
+}
+
+#img_fig{
+    border: 1px lightgreen;
+    background: lightgreen;
+    height: 300px;
+}
+
+#matter1{
+    width:450px;
+    height: 300px;
+    padding: 10px;
+    line-height: 1.5rem;
+}
 
 
-.container, .content {
-width: 100%;
-height: 100%;
+#img_fig1{
+    border: 1px lightgreen;
+    background: lightgreen;
+    height: 300px;
 }
